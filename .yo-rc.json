@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "21points",
+    "packageName": "com.mndegree.health",
+    "packageFolder": "com/mndegree/health",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": true,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "50a0a21de241c15de2e50bbdacc8fbe1ae1c78e7",
+    "testFrameworks": [
+      "gatling"
+    ]
+  }
+}
