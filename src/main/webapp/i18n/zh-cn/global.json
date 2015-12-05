@@ -6,6 +6,9 @@
             "home": "首页",
             "entities": {
                 "main": "数据",
+                "goal": "Goal",
+                "metric": "Metric",
+                "entry": "Entry",
                 "additionalEntity": "JHipster will add additional entities here (do not translate!)"
             },
             "account": {

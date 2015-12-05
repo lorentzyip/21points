@@ -1,0 +1,20 @@
+{
+    "21pointsApp": {
+        "goal" : {
+            "home": {
+                "title": "Goals",
+                "createLabel": "Create a new Goal",
+                "createOrEditLabel": "Create or edit a Goal"
+            },
+            "delete": {
+                "question": "Are you sure you want to delete Goal {{ id }}?"
+            },
+            "detail": {
+                "title": "Goal"
+            },
+            "name": "Name",
+            "description": "Description",
+            "user": "User"
+        }
+    }
+}
